@@ -6,17 +6,17 @@
 ### 👥 Client 👥
 
 <h1 align=center>
-<img src="Images/Chat_Client_1.png" width=50%>
+<img src="Images/Chat_Client_1.png">
 </h1>
 <h1 align=center>
-<img src="Images/Chat_Client_2.png" width=50%>
+<img src="Images/Chat_Client_2.png">
 </h1>
 <h1 align=center>
-<img src="Images/Chat_Client_3.png" width=50%>
+<img src="Images/Chat_Client_3.png">
 </h1>
 
 ### 🖥 Server 🖥
 
 <h1 align=center>
-<img src="Images/Chat_Server_1.png" width=50%>
+<img src="Images/Chat_Server_1.png">
 </h1>
