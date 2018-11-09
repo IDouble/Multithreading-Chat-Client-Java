@@ -83,7 +83,7 @@ public class ConnectGUI {
 				}
 			}
 		});
-		server.setText("CLIENTAYI");
+		server.setText("Admin-PC");
 		server.setLayoutData(new GridData(SWT.FILL, SWT.CENTER, true, false, 1, 1));
 		
 		Label lblPort = new Label(shell, SWT.NONE);
