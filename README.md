@@ -20,3 +20,5 @@
 <h1 align=center>
 <img src="Images/Chat_Server_1.png">
 </h1>
+
+![Binance Ready to give crypto a try ? buy bitcoin and other cryptocurrencies on binance](Images/binance.jpg)
